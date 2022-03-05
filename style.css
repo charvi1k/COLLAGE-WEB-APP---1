@@ -1,0 +1,20 @@
+#start-button
+{
+    width: 20%;
+    height: 40px;
+} 
+#camera_view,#result,#result2,#result3,#result4
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#text_box
+{
+    width: 300px;
+}
